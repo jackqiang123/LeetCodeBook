@@ -1,3 +1,5 @@
-# My Awesome Book
+# LeetCode Solution and Data Structures
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+In this book, I will post my leetcode solutions here, as well as some analysis.
+
+Also, some relevant and useful data structures are also studied.

@@ -1,5 +1,8 @@
 # Leetcode1
 
+Use a hashmap to store the data that has been read.
+Another idea is sort the array and use two pointer to find the two sum.
+
 ```
 // Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 // 

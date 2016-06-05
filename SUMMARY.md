@@ -8,5 +8,5 @@
    * [4](leetcode4.md)
    * [5](leetcode5.md)
    * [6](6.md)
-   * 7
+   * [7](7.md)
 

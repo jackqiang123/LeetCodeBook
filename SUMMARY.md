@@ -6,6 +6,6 @@
    * [2](leetcode2.md)
    * [3](leectode3.md)
    * [4](leetcode4.md)
-   * [Leetcode5](leetcode5.md)
+   * [5](leetcode5.md)
    * 6
 
